@@ -1,0 +1,3 @@
+move(1,1)
+turn(NORTH)
+import(out3.txt)

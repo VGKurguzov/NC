@@ -1,0 +1,5 @@
+move(3,4)
+log
+move(10,11)
+turn(SOUTH)
+import(out2.txt)
