@@ -5,25 +5,27 @@
     <ui:with type = "com.UIBinder.client.LoginResources" field = "res">
     </ui:with>
 
+
     <gwt:HTMLPanel>
         <div align = "center">
 
-            <gwt:VerticalPanel res:styleName = "style.background">
-                <gwt:Label text = "Login" res:styleName = "style.blackText" />
-                <gwt:TextBox ui:field="loginBox" res:styleName = "style.box" />
-                <gwt:Label text = "Password" res:styleName = "style.blackText" />
-                <gwt:PasswordTextBox ui:field = "passwordBox" res:styleName = "style.box" />
 
+
+            <gwt:VerticalPanel res:styleName = "background">
+                <gwt:Label text = "Login" res:styleName = "blackText" />
+                <gwt:TextBox ui:field="loginBox" res:styleName = "box" />
+                <gwt:Label text = "Password" res:styleName = "blackText" />
+                <gwt:PasswordTextBox ui:field = "passwordBox" res:styleName = "box" />
                 <gwt:HorizontalPanel verticalAlignment = "middle">
                     <gwt:Button ui:field = "buttonSubmit" text="Submit"
-                                res:styleName = "style.loginButton" />
+                                res:styleName = "loginButton" />
                     <gwt:CheckBox ui:field = "myCheckBox" />
                     <gwt:Label ui:field = "myLabel" text = "Remember me"
-                               res:styleName = "style.blackText" />
+                               res:styleName = "blackText" />
                 </gwt:HorizontalPanel>
 
-                <gwt:Label ui:field = "completionLabel1" res:styleName = "style.blackText" />
-                <gwt:Label ui:field = "completionLabel2" res:styleName = "style.blackText" />
+                <gwt:Label ui:field = "completionLabel1" res:styleName = "blackText" />
+                <gwt:Label ui:field = "completionLabel2" res:styleName = "blackText" />
             </gwt:VerticalPanel>
 
         </div>
