@@ -171,7 +171,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="166" />
     <option name="y" value="203" />
     <option name="width" value="974" />
@@ -248,7 +248,7 @@
       <workItem from="1562518205363" duration="991000" />
       <workItem from="1562519385605" duration="599000" />
       <workItem from="1562528133003" duration="7026000" />
-      <workItem from="1563127076060" duration="16420000" />
+      <workItem from="1563127076060" duration="16613000" />
     </task>
     <task id="LOCAL-00001" summary="Update your homework">
       <created>1563148632601</created>
@@ -261,7 +261,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25036000" />
+    <option name="totallyTimeSpent" value="25229000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
